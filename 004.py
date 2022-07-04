@@ -28,16 +28,6 @@ for i in range(100, 1000):
 print("Largest palindrome product is:", max(z)) 
 
 
-
-for i in range(999,900,-1):
-    for j in range(999,900,-1):
-        x=str(i*j)
-        y=x[::-1]
-        if x == y:
-            print(f"I= {i} and J= {j} and X= {x}" )
-
-
-
 """
 How to find out if the entered number or text is a palindrome
 """
