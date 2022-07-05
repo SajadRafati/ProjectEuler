@@ -4,10 +4,12 @@ Created on sun Jul  6 00:04:13 2022
 
 @author: SajadRafati
 """
-# projecteuler 16
-# Power digit sum
-# What is the sum of the digits of the number 2**1000?
-# answer is: "1366"
+# projecteuler 6
+# Sum square difference
+"""
+Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+"""
+# answer is: "25164150"
 x = []
 y = []
 for i in range(1, 101):
